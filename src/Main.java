@@ -78,5 +78,4 @@ public class Main {
         str = "Seu salário vai ser igual: " + (salario * dias);
         return str;
     }
-    public s
 }
