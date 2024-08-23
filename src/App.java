@@ -29,6 +29,34 @@ public class App {
                 break;
             case 8:
                 System.out.println(Main.Ex08());
+                break;
+            case 9:
+                System.out.println(Main.Ex09());
+                break;
+            case 10:
+                System.out.println(Main.Ex10());
+                break;
+            case 11:
+                System.out.println(Main.Ex11());
+                break;
+            case 12:
+                System.out.println(Main.Ex12());
+                break;
+            case 13:
+                System.out.println(Main.Ex13());
+                break;
+            case 14:
+                System.out.println(Main.Ex14());
+                break;
+            case 15:
+                System.out.println(Main.Ex15());
+                break;
+            case 16:
+                System.out.println(Main.Ex16());
+                break;
+            case 17:
+                System.out.println(Main.Ex17());
+                break;
         }
 
     }
