@@ -2,6 +2,9 @@
 Lista 02 de exercícios MONITORIA JAVA <br>
 Usando JDK 17<br>
 Pedro Henrique de Sá Quartin de Matos
+## "Main.java" - Exercicíos
+## "App.java" = Executar exercicíos em loop
+### Para usar é so ter os 2 na mesma pasta!
 
 <h1>EXERCICIOS: </h1>
 
