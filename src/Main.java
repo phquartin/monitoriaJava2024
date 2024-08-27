@@ -235,9 +235,10 @@ public class Main {
             System.out.println("Digite o numero " + (i + 1) + ": ");
             num[i] = sc.nextFloat();
         }for (int i = 0 ; i < 3; i++) {
-            menorNumero = num[0];
-            maiorNumero = num[0];
-            if (num[i] < menorNumero) {
+            if (i == 0){
+                menorNumero = num[0];
+                maiorNumero = num[0];
+            } else if (num[i] < menorNumero) {
                 menorNumero = num[i];
             } else if (num[i] > maiorNumero) {
                 maiorNumero = num[i];
